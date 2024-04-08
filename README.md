@@ -16,7 +16,7 @@ Para finalizar añadir en  Vinculador/ Entrada / Dependencias adicionales:
 
 
 
-#codigo de prueba
+# codigo de prueba
 ```cpp
 #include <GLFW/glfw3.h>
 int main(void)
