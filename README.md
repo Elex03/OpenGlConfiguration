@@ -3,7 +3,8 @@
 # Configuracion de entorno Parte 2
 Añadir en C/C++ / Preprocesador / Definicines de procesador: 
 - GLEW_STATIC;WIN32;
-
+Añadir en Vinculador / Entrada / Dependencias adicionales:
+- glew32s.lib
 # Codigo de prueba 
 Aca solo es para confirmar que todo se hizo correctamente tienen que copiar el codigo de entrega en el archivo mandado por el docente
 
