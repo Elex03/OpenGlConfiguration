@@ -1,6 +1,6 @@
 # OpenGlConfiguration
 
-# Configuracion de entorno PArte 2
+# Configuracion de entorno Parte 2
 Añadir en C/C++ / Preprocesador / Definicines de procesador: 
 - GLEW_STATIC;WIN32;
 
