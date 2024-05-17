@@ -1,0 +1,44 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Win10User\\Downloads\\glfw-3.4\\build\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7361F76E-9968-3A67-B90E-AF9EB4FF2F50}|examples\\boing.vcxproj|C:\\Users\\Win10User\\Downloads\\glfw-3.4\\glfw-3.4\\examples\\boing.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "boing.c",
+              "DocumentMoniker": "C:\\Users\\Win10User\\Downloads\\glfw-3.4\\glfw-3.4\\examples\\boing.c",
+              "RelativeDocumentMoniker": "..\\glfw-3.4\\examples\\boing.c",
+              "ToolTip": "C:\\Users\\Win10User\\Downloads\\glfw-3.4\\glfw-3.4\\examples\\boing.c",
+              "RelativeToolTip": "..\\glfw-3.4\\examples\\boing.c",
+              "ViewState": "AQIAACICAAAAAAAAAAAAACoCAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-05-13T00:16:45.902Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

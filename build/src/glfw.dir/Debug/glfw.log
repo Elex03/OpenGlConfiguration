@@ -1,0 +1,26 @@
+﻿  Building Custom Rule C:/Users/Win10User/Downloads/glfw-3.4/glfw-3.4/src/CMakeLists.txt
+  context.c
+  init.c
+  input.c
+  monitor.c
+  platform.c
+  vulkan.c
+  window.c
+  egl_context.c
+  osmesa_context.c
+  null_init.c
+  null_monitor.c
+  null_window.c
+  null_joystick.c
+  win32_module.c
+  win32_time.c
+  win32_thread.c
+  win32_init.c
+  win32_joystick.c
+  win32_monitor.c
+  win32_window.c
+  Generando código...
+  Compilando...
+  wgl_context.c
+  Generando código...
+  glfw.vcxproj -> C:\Users\Win10User\Downloads\glfw-3.4\build\src\Debug\glfw3.lib
