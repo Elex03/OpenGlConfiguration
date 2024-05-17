@@ -2,6 +2,7 @@
 
 > [!IMPORTANT]
 > Necesitas actualizar la carpeta include.
+> La carpeta libs se mantiene igual
 
 <!--
 # Configuracion de entorno Parte 2
