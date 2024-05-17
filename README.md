@@ -1,5 +1,9 @@
 # OpenGlConfiguration
 
+> [!IMPORTANT]
+> Necesitas actualizar la carpeta include.
+
+
 # Configuracion de entorno Parte 2
 Añadir en C/C++ / Preprocesador / Definicines de procesador: 
 - GLEW_STATIC;WIN32;
