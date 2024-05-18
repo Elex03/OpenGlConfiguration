@@ -3,7 +3,7 @@
 > [!IMPORTANT]
 > Necesitas actualizar la carpeta include.
 > La carpeta libs se mantiene igual
-
+<!----
 # Configuracion de entorno Parte 2
 Añadir en C/C++ / Preprocesador / Definicines de procesador: 
 - GLEW_STATIC;WIN32;
@@ -111,4 +111,4 @@ int main(void)
 	return 0;
 }
 ```
-
+--->
